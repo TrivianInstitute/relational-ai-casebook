@@ -29,7 +29,7 @@ Trivian Institute develops educational public goods. Trivian Technologies develo
 
 ## Participate and maturity
 
-Contact **learn@trivianinstitute.org**. Read [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Six substantial cases are drafted; facilitation pilots, independent review, translations, and learner feedback remain outstanding.  Canonical cross-repository links become available after the builds are merged.
+Contact **learn@trivianinstitute.org**. Read [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Six substantial cases are drafted; facilitation pilots, independent review, translations, and learner feedback remain outstanding. [Educator Commons](https://github.com/TrivianInstitute/educator-commons) includes a 60-minute casebook session; [Learning in Practice](https://github.com/TrivianInstitute/learning-in-practice) provides a careful route for reporting teaching experience.
 
 ## License
 
